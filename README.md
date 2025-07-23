@@ -1,30 +1,25 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+In this software, I was trying to recreate the classic arcade game Space Invaders. To do this, I needed to program a "tank" for the player to move and shoot at "invaders" that slowly descend down the screen. At the bottom of the screen I needed eight "buildings" that disappear when hit with tank bullets or invaders. The game is won if all the invaders are killed and the game is lost if all the buildings are destroyed.;
 
-{Provide a description the game that you wrote. Describe how to play your game.}
+I wrote this software to expand my knowledge of Python, particularly in working with classes in the program. I also used this opportunity to learn about the Arcade library within Python that provides tools specifically for game design.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/HthXQNfYpAM)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+To write this code I used my laptop with a Windows 11 OS. The environment I used was Visual Code Studio.
 
-{Describe the programming language that you used and any libraries.}
+I wrote this program in the Python language and used the Arcade library made for video game design.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Arcade Documentation](https://api.arcade.academy/en/stable/)
+* [Arcade Examples](https://api.arcade.academy/en/2.6.17/sample_games.html)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* I want to create levels of increasing difficulty that players can go through.
+* I want to add the ability for a player to save their progress so they can come back to the game later.
+* I want to give the Invaders the ability to shoot back.
